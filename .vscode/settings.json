@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ChinookDB",
+            "database": "\\\\wsl$\\Ubuntu-18.04\\home\\ted\\workspace\\chinook\\Chinook_Sqlite.sqlite"
+        }
+    ]
+}
