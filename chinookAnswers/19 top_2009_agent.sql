@@ -1,0 +1,1 @@
+-- Join syntax. Outer Join would not work.
