@@ -1,4 +1,4 @@
--- Provide a query that includes the purchased track name with each invoice line item.
+-- Provide a query that includes the purchased track name with each invoice line item
 
 SELECT InvoiceId, InvoiceLineId, T.Name 
 FROM InvoiceLine I

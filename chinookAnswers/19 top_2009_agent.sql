@@ -1,4 +1,4 @@
--- Which sales agent made the most in sales in 2009?
+-- Which sales agent made the most in sales in 2009
 
 Select
     Max(TotalSales),
