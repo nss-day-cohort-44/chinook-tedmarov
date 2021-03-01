@@ -1,6 +1,6 @@
 -- Provide a query that shows all the Tracks, 
 -- but displays no IDs. The result should include 
--- the Album name, Media type and Genre.
+-- the Album name, Media type and Genre
 
 Select
     t.Name TrackName,

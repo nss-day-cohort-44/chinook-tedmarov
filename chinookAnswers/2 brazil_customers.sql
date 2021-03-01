@@ -1,4 +1,4 @@
--- Provide a query only showing the Customers from Brazil.
+-- Provide a query only showing the Customers from Brazil
 
 Select
     c.FirstName,

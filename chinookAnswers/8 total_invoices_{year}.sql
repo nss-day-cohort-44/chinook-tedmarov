@@ -1,4 +1,4 @@
--- How many Invoices were there in 2009 and 2011?
+-- How many Invoices were there in 2009 and 2011
 
 Select InvoiceDate, Count(InvoiceId)
 From Invoice i

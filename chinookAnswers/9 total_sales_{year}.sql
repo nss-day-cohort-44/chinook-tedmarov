@@ -1,4 +1,4 @@
--- What are the respective total sales for each of those years?
+-- What are the respective total sales for each of those years
 
 Select
     printf('%.2f', Sum(i.Total)) Total,
